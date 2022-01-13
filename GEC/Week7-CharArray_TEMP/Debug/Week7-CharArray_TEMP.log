@@ -1,0 +1,3 @@
+﻿  Week7-CharArray_TEMP.cpp
+G:\University\Game Engine Creation\VS19\Week7-CharArray_TEMP\Week7-CharArray_TEMP.cpp(13,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\University\Game Engine Creation\VS19\Week7-CharArray_TEMP\Week7-CharArray_TEMP.cpp(17,11): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
